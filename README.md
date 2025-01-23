@@ -5,13 +5,13 @@
 Este é um projeto de aplicação web simples para organizar um sorteio de "Amigo Secreto". O principal objetivo deste projeto é focar no desenvolvimento da lógica de programação 
 utilizando JavaScript, com HTML e CSS já pré-definidos.
 
-Este projeto foi desenvolvido como parte do **programa ONE (Oracle Next Education)**, em parceria com a **Alura**, é uma iniciativa focada em capacitar pessoas para o mercado de 
+O projeto foi desenvolvido como parte do **programa ONE (Oracle Next Education)**, em parceria com a **Alura**, é uma iniciativa focada em capacitar pessoas para o mercado de 
 tecnologia, oferecendo cursos e desafios práticos para aprimorar habilidades de desenvolvimento. A Alura é uma plataforma de ensino online com foco em tecnologia, oferecendo 
 cursos, formações e artigos para desenvolvedores.
 
-## Sobre o Desafio
+## Sobre o Challenge
 
-Este projeto foi criado como parte de um dos desafios do programa ONE. O foco principal deste desafio é o desenvolvimento da lógica de programação utilizando JavaScript. 
+O desafio é parte do programa ONE e seu foco principal é o desenvolvimento da lógica de programação utilizando JavaScript. 
 
 Neste desafio, foi desenvolvido uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
