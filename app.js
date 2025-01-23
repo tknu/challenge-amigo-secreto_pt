@@ -63,7 +63,7 @@ function sortearAmigo() {
     // Seleciona o amigo secreto com base no índice aleatório.
     amigoSecreto = listaAmigos[indiceAmigoSecreto];
     // Exibe o resultado do sorteio na página.
-    document.getElementById('resultado').innerHTML = `Seu amigo secreto é ${amigoSecreto}!`;
+    document.getElementById('resultado').innerHTML = `Seu amigo secreto é a(o) ${amigoSecreto}!`;
     // Retorna o nome do amigo secreto sorteado.
     return amigoSecreto;
 }
