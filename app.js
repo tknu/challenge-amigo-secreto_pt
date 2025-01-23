@@ -31,8 +31,6 @@ function adicionarAmigo() {
 function adicionarNomeAmigo(nome) {
     // Adiciona o nome à lista de amigos.
     listaAmigos.push(nome);
-    // Exibe a lista de amigos no console (para debug).
-    console.log(listaAmigos);
     // Limpa o campo de input.
     limparCampo();
     // Exibe a lista de amigos na página.
