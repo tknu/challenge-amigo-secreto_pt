@@ -38,7 +38,7 @@ O objetivo é implementar as funcionalidades de adicionar nomes à lista de part
 
 1.  Clone o repositório para a sua máquina local:
     ```
-    git clone <URL_do_repositorio>
+    git clone <git@github.com:tknu/challenge-amigo-secreto_pt.git>
     ```
 2.  Abra o arquivo `index.html` em seu navegador.
 3.  Adicione os nomes dos participantes no campo de texto e clique em "Adicionar".
