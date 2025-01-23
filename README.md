@@ -5,7 +5,7 @@
 Este é um projeto de aplicação web simples para organizar um sorteio de "Amigo Secreto". O principal objetivo deste projeto é focar no desenvolvimento da lógica de programação 
 utilizando JavaScript, com HTML e CSS já pré-definidos.
 
-Este projeto foi desenvolvido como parte do **programa ONE** (Oracle Next Education, em parceria com a **Alura**, é uma iniciativa focada em capacitar pessoas para o mercado de 
+Este projeto foi desenvolvido como parte do **programa ONE (Oracle Next Education)**, em parceria com a **Alura**, é uma iniciativa focada em capacitar pessoas para o mercado de 
 tecnologia, oferecendo cursos e desafios práticos para aprimorar habilidades de desenvolvimento. A Alura é uma plataforma de ensino online com foco em tecnologia, oferecendo 
 cursos, formações e artigos para desenvolvedores.
 
@@ -80,4 +80,4 @@ Sinta-se à vontade para contribuir com este projeto! Você pode:
 *   [Thiago Ueda] - Desenvolvedor do projeto
 
 ---
-Este projeto foi desenvolvido como parte do programa ONE (Oracle Next Education, em parceria com a Alura
+Este projeto foi desenvolvido como parte do programa ONE (Oracle Next Education), em parceria com a Alura
